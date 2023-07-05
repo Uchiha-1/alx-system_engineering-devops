@@ -1,2 +1,2 @@
 #!/bin/bash
-cwd=$(pwd) echo "/0x00-shell_basics$cwd"
+cd
